@@ -9,3 +9,7 @@ y <- rnorm(500)
 
 # Normal development
 
+# An alternative way
+
+
+# Some more work for github
